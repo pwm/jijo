@@ -65,6 +65,7 @@ module Jijo.Definition
     parseJSON_viaDefinition,
     toJSON_viaDefinition,
     aesonJDefinition,
+    renderJValidationErrorList
   ) where
 
 import Prelude hiding ((.), id)
